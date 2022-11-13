@@ -57,6 +57,7 @@ while (cardsFinished == false) // If user has gone through all cards, this will 
     //
     // This is also where you would change the cards contents, as well as add or remove cards.
 
+    #region cards
     if (cardSelect == 1 && !card01) // 3 X 1
     {
         while (cardAnswer != 3)
@@ -176,6 +177,7 @@ while (cardsFinished == false) // If user has gone through all cards, this will 
         }
         card12 = true;
     }
+    #endregion
 }
 // Alerts user that deck has been finished.
 Console.Beep();
