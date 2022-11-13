@@ -1,0 +1,15 @@
+C:\Users\Byte\source\repos\SimpleFlashCards\bin\Debug\net6.0\SimpleFlashCards.exe
+C:\Users\Byte\source\repos\SimpleFlashCards\bin\Debug\net6.0\SimpleFlashCards.deps.json
+C:\Users\Byte\source\repos\SimpleFlashCards\bin\Debug\net6.0\SimpleFlashCards.runtimeconfig.json
+C:\Users\Byte\source\repos\SimpleFlashCards\bin\Debug\net6.0\SimpleFlashCards.dll
+C:\Users\Byte\source\repos\SimpleFlashCards\bin\Debug\net6.0\SimpleFlashCards.pdb
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.csproj.AssemblyReference.cache
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.AssemblyInfoInputs.cache
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.AssemblyInfo.cs
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.csproj.CoreCompileInputs.cache
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.dll
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\refint\SimpleFlashCards.dll
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.pdb
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\SimpleFlashCards.genruntimeconfig.cache
+C:\Users\Byte\source\repos\SimpleFlashCards\obj\Debug\net6.0\ref\SimpleFlashCards.dll
