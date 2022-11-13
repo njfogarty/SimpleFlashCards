@@ -48,6 +48,7 @@ while (!cardsFinished) // If user has gone through all cards, this will stop loo
     // Determines whether all cards have been completed or not.
     if (card01 && card02 && card03 && card04 && card05 && card06 && card07 && card08 && card09 && card10 && card11 && card12)
     {
+        Console.Beep();
         Console.Write("\nDeck finished! Would you like to continue?: ");
         string restartChoice = Console.ReadLine();
         if (restartChoice == "Yes" || restartChoice == "yes")
